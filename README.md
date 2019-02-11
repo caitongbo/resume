@@ -2,5 +2,4 @@
 
 * https://resume.caitongbo.com
 
-²Î¿¼ [@ Cong Min](https://github.com/mcc108/resume) .
-ÌØ´Ë¸ĞĞ»~
+å‚è€ƒ [@ Cong Min](https://github.com/mcc108/resume) .
